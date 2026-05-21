@@ -3,7 +3,7 @@ This repo is where I document my DATA ANALYSIS journey from scratch.
 Updated regularly as I learn new concepts.
 ## learning source
 - DataCamp Data Analyst Track
-- DataCamp Data Scienctist in Python Track
+- DataCamp Data Scientist in Python Track
 ## topics covered
 - Pandas sorting & filtering
 - Pandas aggregation and statistics
