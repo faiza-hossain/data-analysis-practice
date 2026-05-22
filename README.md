@@ -8,5 +8,6 @@ Updated regularly as I learn new concepts.
 - Pandas sorting & filtering
 - Pandas aggregation and statistics
 - Statistics with scipy
+- Seaborn Data Visualization 
 ## tools I'm using
 - Python, Pandas, Scipy,Numpy, Matplotlib, Seaborn
