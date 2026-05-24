@@ -7,8 +7,9 @@ Updated regularly as I learn new concepts.
 ## topics covered
 - Pandas sorting & filtering
 - Pandas aggregation and statistics
+- Pandas visualisation
+- Pandas concatenation
 - Statistics with scipy
 - Seaborn Data Visualization
-- Pandas Visualisation
 ## tools I'm using
 - Python, Pandas, Scipy,Numpy, Matplotlib, Seaborn
