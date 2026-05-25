@@ -9,6 +9,7 @@ Updated regularly as I learn new concepts.
 - Pandas aggregation and statistics
 - Pandas visualisation
 - Pandas concatenation
+- Pandas merging
 - Statistics with scipy
 - Seaborn Data Visualization
 ## tools I'm using
