@@ -12,5 +12,6 @@ Updated regularly as I learn new concepts.
 - Pandas merging
 - Statistics with scipy
 - Seaborn Data Visualization
+- Exploratory Data Analysis
 ## tools I'm using
 - Python, Pandas, Scipy,Numpy, Matplotlib, Seaborn
