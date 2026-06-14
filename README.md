@@ -14,5 +14,6 @@ Updated regularly as I learn new concepts.
 - Statistics with scipy
 - Seaborn Data Visualization
 - Exploratory Data Analysis
+- Sampling in Python
 ## tools I'm using
 - Python, Pandas, Scipy,Numpy, Matplotlib, Seaborn
